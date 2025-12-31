@@ -1,2 +1,7 @@
-# third-repo
-FizzBuzz 구현 연습 프로젝트
+# Hello, I am from remote.
+
+## How to start
+
+## Installation
+
+## Features
